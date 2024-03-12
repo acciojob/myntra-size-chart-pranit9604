@@ -1,2 +1,25 @@
 
-/* Your CSS Code here. */
+/* Your CSS Cde here. */
+body{
+font-family: Arial ,sans-serif
+background-color: #f0f0f0
+margin: 0
+padding : 20px
+
+}
+table{
+	width:80%
+	
+}
+th ,td{
+	boder:1px solid #ccc 
+	padding:10px
+	text-align : center
+	
+}
+thead{
+	background-color:#f2f2f2
+}
+h1{
+	text-align: center
+}
